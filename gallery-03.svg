@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0c0d"/><stop offset=".55" stop-color="#1b1b19"/><stop offset="1" stop-color="#7d6634"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<path d="M0 560 L280 360 L430 500 L650 290 L850 480 L1020 340 L1200 500 V700 H0Z" fill="#080909" opacity=".8"/>
+<circle cx="600" cy="280" r="72" fill="none" stroke="#c7a65a" stroke-width="3" opacity=".7"/>
+<text x="600" y="275" fill="#f0d78e" font-family="Arial" font-size="34" font-weight="800" text-anchor="middle">SDSO</text>
+<text x="600" y="315" fill="#aaa" font-family="Arial" font-size="18" text-anchor="middle">GALLERY 03</text>
+</svg>
